@@ -1,3 +1,4 @@
+import java.util.Random;
 public class ShortPathGraph{
     private int[][] cost = {{0,3,100000,2,100000,100000,6},
                             {100000, 0, 6, 100000, 1, 100000, 100000},
@@ -12,7 +13,31 @@ public class ShortPathGraph{
      * @param vertices how many vertices should be in the graph
      */
     public void generateValues(int density, int vertices){
-
+        Random rand = new Random();
+        cost = new int[vertices][vertices];
+        for(int i = 0; i<cost.length; i++){
+            for(int j = 0; j<cost.length;j++){
+                cost[i][j] = 100000;
+            }
+        }
+        for(int counter = density; counter>0; counter--){
+            cost[rand.nextInt(vertices)][rand.nextInt(vertices)] = rand.nextInt(1001);
+        }
+        for(int i =0; i<cost.length;i++){
+            cost[i][i] = 0;
+        }
+        for(int i =0; i<cost.length; i++){
+            String row = "[ ";
+            for(int j =0; j<cost.length;j++){
+                if (j == cost.length -1){
+                    row += cost[i][j] + " ]";
+                }
+                else{
+                    row += cost[i][j] + " ";
+                }
+            }
+            System.out.println(row);
+        }
     }
 
     /**
@@ -71,7 +96,37 @@ public class ShortPathGraph{
      * solves the shortest path by using the Floyd-Warshall algorithm
      */
     public void floydWarshall(){
-
+        int [][] Dk = new int[cost.length][cost.length];
+        for(int rows = 0; rows<cost.length; rows++){
+            for(int columns = 0; columns<cost.length; columns++){
+                Dk[rows][columns] = cost[rows][columns];
+            }
+        }
+        for(int k = 0; k<cost.length; k++){
+            int[][] prevDk = Dk;
+            for(int rows =0; rows<cost.length; rows++){
+                for(int columns = 0; columns < cost.length; columns++){
+                    if(prevDk[rows][columns] < prevDk[rows][k] + prevDk[k][columns]){
+                        Dk[rows][columns] = prevDk[rows][columns]; 
+                    }
+                    else{
+                        Dk[rows][columns] = prevDk[rows][k] + prevDk[k][columns];
+                    }
+                }
+            }
+        }
+        for(int i =0; i<cost.length; i++){
+            String row = "[ ";
+            for(int j =0; j<cost.length;j++){
+                if (j == cost.length -1){
+                    row += Dk[i][j] + " ]";
+                }
+                else{
+                    row += Dk[i][j] + " ";
+                }
+            }
+            System.out.println(row);
+        }
     }
 
 }
