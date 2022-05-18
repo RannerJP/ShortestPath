@@ -26,6 +26,7 @@ public class ShortPathGraph{
         for(int i =0; i<cost.length;i++){
             cost[i][i] = 0;
         }
+        /**
         for(int i =0; i<cost.length; i++){
             String row = "[ ";
             for(int j =0; j<cost.length;j++){
@@ -38,6 +39,7 @@ public class ShortPathGraph{
             }
             System.out.println(row);
         }
+        */
     }
 
     /**
@@ -74,6 +76,7 @@ public class ShortPathGraph{
             }
         }
         
+        /**
         for(int vertex =1; vertex< shortPath[0].length; vertex++){
             int prev = vertex;
             boolean endPoint = false;
@@ -90,6 +93,7 @@ public class ShortPathGraph{
                 }
             }
         }
+        */
     }
 
     /**
@@ -115,6 +119,7 @@ public class ShortPathGraph{
                 }
             }
         }
+        /**
         for(int i =0; i<cost.length; i++){
             String row = "[ ";
             for(int j =0; j<cost.length;j++){
@@ -127,6 +132,7 @@ public class ShortPathGraph{
             }
             System.out.println(row);
         }
+        */
     }
 
 }
