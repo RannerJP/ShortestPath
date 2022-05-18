@@ -1,0 +1,400 @@
+0 for size: 10 sparse Dijkstras
+ 
+0 for size: 10 sparse Floyd Warshall
+ 
+0 for size: 10 dense Dijkstras
+ 
+0 for size: 10 dense Floyd Warshall
+ 
+0 for size: 30 sparse Dijkstras
+ 
+0 for size: 30 sparse Floyd Warshall
+ 
+0 for size: 30 dense Dijkstras
+ 
+0 for size: 30 dense Floyd Warshall
+ 
+0 for size: 50 sparse Dijkstras
+ 
+0 for size: 50 sparse Floyd Warshall
+ 
+0 for size: 50 dense Dijkstras
+ 
+0 for size: 50 dense Floyd Warshall
+ 
+0 for size: 70 sparse Dijkstras
+ 
+0 for size: 70 sparse Floyd Warshall
+ 
+0 for size: 70 dense Dijkstras
+ 
+0 for size: 70 dense Floyd Warshall
+ 
+0 for size: 90 sparse Dijkstras
+ 
+0 for size: 90 sparse Floyd Warshall
+ 
+0 for size: 90 dense Dijkstras
+ 
+0 for size: 90 dense Floyd Warshall
+ 
+0 for size: 110 sparse Dijkstras
+ 
+1 for size: 110 sparse Floyd Warshall
+ 
+0 for size: 110 dense Dijkstras
+ 
+0 for size: 110 dense Floyd Warshall
+ 
+0 for size: 130 sparse Dijkstras
+ 
+1 for size: 130 sparse Floyd Warshall
+ 
+0 for size: 130 dense Dijkstras
+ 
+1 for size: 130 dense Floyd Warshall
+ 
+0 for size: 150 sparse Dijkstras
+ 
+1 for size: 150 sparse Floyd Warshall
+ 
+0 for size: 150 dense Dijkstras
+ 
+2 for size: 150 dense Floyd Warshall
+ 
+0 for size: 170 sparse Dijkstras
+ 
+2 for size: 170 sparse Floyd Warshall
+ 
+0 for size: 170 dense Dijkstras
+ 
+3 for size: 170 dense Floyd Warshall
+ 
+0 for size: 190 sparse Dijkstras
+ 
+3 for size: 190 sparse Floyd Warshall
+ 
+0 for size: 190 dense Dijkstras
+ 
+4 for size: 190 dense Floyd Warshall
+ 
+0 for size: 210 sparse Dijkstras
+ 
+4 for size: 210 sparse Floyd Warshall
+ 
+0 for size: 210 dense Dijkstras
+ 
+4 for size: 210 dense Floyd Warshall
+ 
+0 for size: 230 sparse Dijkstras
+ 
+5 for size: 230 sparse Floyd Warshall
+ 
+0 for size: 230 dense Dijkstras
+ 
+6 for size: 230 dense Floyd Warshall
+ 
+0 for size: 250 sparse Dijkstras
+ 
+7 for size: 250 sparse Floyd Warshall
+ 
+0 for size: 250 dense Dijkstras
+ 
+8 for size: 250 dense Floyd Warshall
+ 
+0 for size: 270 sparse Dijkstras
+ 
+9 for size: 270 sparse Floyd Warshall
+ 
+0 for size: 270 dense Dijkstras
+ 
+10 for size: 270 dense Floyd Warshall
+ 
+0 for size: 290 sparse Dijkstras
+ 
+11 for size: 290 sparse Floyd Warshall
+ 
+0 for size: 290 dense Dijkstras
+ 
+12 for size: 290 dense Floyd Warshall
+ 
+0 for size: 310 sparse Dijkstras
+ 
+14 for size: 310 sparse Floyd Warshall
+ 
+0 for size: 310 dense Dijkstras
+ 
+14 for size: 310 dense Floyd Warshall
+ 
+0 for size: 330 sparse Dijkstras
+ 
+16 for size: 330 sparse Floyd Warshall
+ 
+0 for size: 330 dense Dijkstras
+ 
+17 for size: 330 dense Floyd Warshall
+ 
+0 for size: 350 sparse Dijkstras
+ 
+19 for size: 350 sparse Floyd Warshall
+ 
+0 for size: 350 dense Dijkstras
+ 
+25 for size: 350 dense Floyd Warshall
+ 
+0 for size: 370 sparse Dijkstras
+ 
+23 for size: 370 sparse Floyd Warshall
+ 
+0 for size: 370 dense Dijkstras
+ 
+24 for size: 370 dense Floyd Warshall
+ 
+0 for size: 390 sparse Dijkstras
+ 
+27 for size: 390 sparse Floyd Warshall
+ 
+0 for size: 390 dense Dijkstras
+ 
+29 for size: 390 dense Floyd Warshall
+ 
+0 for size: 410 sparse Dijkstras
+ 
+31 for size: 410 sparse Floyd Warshall
+ 
+0 for size: 410 dense Dijkstras
+ 
+33 for size: 410 dense Floyd Warshall
+ 
+0 for size: 430 sparse Dijkstras
+ 
+35 for size: 430 sparse Floyd Warshall
+ 
+0 for size: 430 dense Dijkstras
+ 
+38 for size: 430 dense Floyd Warshall
+ 
+0 for size: 450 sparse Dijkstras
+ 
+40 for size: 450 sparse Floyd Warshall
+ 
+0 for size: 450 dense Dijkstras
+ 
+43 for size: 450 dense Floyd Warshall
+ 
+0 for size: 470 sparse Dijkstras
+ 
+45 for size: 470 sparse Floyd Warshall
+ 
+0 for size: 470 dense Dijkstras
+ 
+49 for size: 470 dense Floyd Warshall
+ 
+0 for size: 490 sparse Dijkstras
+ 
+50 for size: 490 sparse Floyd Warshall
+ 
+0 for size: 490 dense Dijkstras
+ 
+54 for size: 490 dense Floyd Warshall
+ 
+0 for size: 510 sparse Dijkstras
+ 
+57 for size: 510 sparse Floyd Warshall
+ 
+0 for size: 510 dense Dijkstras
+ 
+61 for size: 510 dense Floyd Warshall
+ 
+0 for size: 530 sparse Dijkstras
+ 
+64 for size: 530 sparse Floyd Warshall
+ 
+0 for size: 530 dense Dijkstras
+ 
+70 for size: 530 dense Floyd Warshall
+ 
+0 for size: 550 sparse Dijkstras
+ 
+71 for size: 550 sparse Floyd Warshall
+ 
+0 for size: 550 dense Dijkstras
+ 
+77 for size: 550 dense Floyd Warshall
+ 
+0 for size: 570 sparse Dijkstras
+ 
+80 for size: 570 sparse Floyd Warshall
+ 
+0 for size: 570 dense Dijkstras
+ 
+84 for size: 570 dense Floyd Warshall
+ 
+0 for size: 590 sparse Dijkstras
+ 
+86 for size: 590 sparse Floyd Warshall
+ 
+0 for size: 590 dense Dijkstras
+ 
+96 for size: 590 dense Floyd Warshall
+ 
+0 for size: 610 sparse Dijkstras
+ 
+97 for size: 610 sparse Floyd Warshall
+ 
+0 for size: 610 dense Dijkstras
+ 
+103 for size: 610 dense Floyd Warshall
+ 
+0 for size: 630 sparse Dijkstras
+ 
+107 for size: 630 sparse Floyd Warshall
+ 
+0 for size: 630 dense Dijkstras
+ 
+113 for size: 630 dense Floyd Warshall
+ 
+0 for size: 650 sparse Dijkstras
+ 
+118 for size: 650 sparse Floyd Warshall
+ 
+0 for size: 650 dense Dijkstras
+ 
+126 for size: 650 dense Floyd Warshall
+ 
+0 for size: 670 sparse Dijkstras
+ 
+130 for size: 670 sparse Floyd Warshall
+ 
+0 for size: 670 dense Dijkstras
+ 
+137 for size: 670 dense Floyd Warshall
+ 
+0 for size: 690 sparse Dijkstras
+ 
+139 for size: 690 sparse Floyd Warshall
+ 
+0 for size: 690 dense Dijkstras
+ 
+150 for size: 690 dense Floyd Warshall
+ 
+0 for size: 710 sparse Dijkstras
+ 
+154 for size: 710 sparse Floyd Warshall
+ 
+0 for size: 710 dense Dijkstras
+ 
+164 for size: 710 dense Floyd Warshall
+ 
+0 for size: 730 sparse Dijkstras
+ 
+167 for size: 730 sparse Floyd Warshall
+ 
+0 for size: 730 dense Dijkstras
+ 
+178 for size: 730 dense Floyd Warshall
+ 
+0 for size: 750 sparse Dijkstras
+ 
+181 for size: 750 sparse Floyd Warshall
+ 
+0 for size: 750 dense Dijkstras
+ 
+192 for size: 750 dense Floyd Warshall
+ 
+0 for size: 770 sparse Dijkstras
+ 
+214 for size: 770 sparse Floyd Warshall
+ 
+0 for size: 770 dense Dijkstras
+ 
+212 for size: 770 dense Floyd Warshall
+ 
+0 for size: 790 sparse Dijkstras
+ 
+211 for size: 790 sparse Floyd Warshall
+ 
+0 for size: 790 dense Dijkstras
+ 
+226 for size: 790 dense Floyd Warshall
+ 
+0 for size: 810 sparse Dijkstras
+ 
+233 for size: 810 sparse Floyd Warshall
+ 
+0 for size: 810 dense Dijkstras
+ 
+240 for size: 810 dense Floyd Warshall
+ 
+0 for size: 830 sparse Dijkstras
+ 
+244 for size: 830 sparse Floyd Warshall
+ 
+0 for size: 830 dense Dijkstras
+ 
+259 for size: 830 dense Floyd Warshall
+ 
+0 for size: 850 sparse Dijkstras
+ 
+263 for size: 850 sparse Floyd Warshall
+ 
+0 for size: 850 dense Dijkstras
+ 
+288 for size: 850 dense Floyd Warshall
+ 
+0 for size: 870 sparse Dijkstras
+ 
+281 for size: 870 sparse Floyd Warshall
+ 
+0 for size: 870 dense Dijkstras
+ 
+301 for size: 870 dense Floyd Warshall
+ 
+0 for size: 890 sparse Dijkstras
+ 
+303 for size: 890 sparse Floyd Warshall
+ 
+0 for size: 890 dense Dijkstras
+ 
+326 for size: 890 dense Floyd Warshall
+ 
+0 for size: 910 sparse Dijkstras
+ 
+323 for size: 910 sparse Floyd Warshall
+ 
+0 for size: 910 dense Dijkstras
+ 
+347 for size: 910 dense Floyd Warshall
+ 
+1 for size: 930 sparse Dijkstras
+ 
+346 for size: 930 sparse Floyd Warshall
+ 
+1 for size: 930 dense Dijkstras
+ 
+365 for size: 930 dense Floyd Warshall
+ 
+1 for size: 950 sparse Dijkstras
+ 
+368 for size: 950 sparse Floyd Warshall
+ 
+1 for size: 950 dense Dijkstras
+ 
+395 for size: 950 dense Floyd Warshall
+ 
+0 for size: 970 sparse Dijkstras
+ 
+392 for size: 970 sparse Floyd Warshall
+ 
+1 for size: 970 dense Dijkstras
+ 
+421 for size: 970 dense Floyd Warshall
+ 
+1 for size: 990 sparse Dijkstras
+ 
+417 for size: 990 sparse Floyd Warshall
+ 
+1 for size: 990 dense Dijkstras
+ 
+443 for size: 990 dense Floyd Warshall
+ 
